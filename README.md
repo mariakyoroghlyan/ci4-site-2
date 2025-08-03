@@ -1,6 +1,6 @@
-# Website with Ci4
+# Website using PHP
 
-This is a portfolio and presentation website for an interior design studio, showcasing projects, team, awards, and media. The site is built using PHP and its framework CI4 and static HTML/CSS/JS, and is structured for easy deployment and customization.
+This interior design studio, website showcasing projects, team, awards, and media. is developed using the CodeIgniter 4 PHP framework. It includes both the frontend and backend, along with a dedicated admin panel for managing the system.
 
 ## Features
 
