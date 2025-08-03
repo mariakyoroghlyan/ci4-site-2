@@ -1,5 +1,4 @@
 .env
 writable/*
 !writable/index.html
-app/Config/Database.php
-.idea
+app/Config/Database.php.idea
