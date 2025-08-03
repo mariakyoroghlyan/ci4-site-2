@@ -1,6 +1,6 @@
-# STUDIO SHOO
+# Website with Ci4
 
-STUDIO SHOO is a portfolio and presentation website for an interior design studio, showcasing projects, team, awards, and media. The site is built using PHP and its framework CI4 and static HTML/CSS/JS, and is structured for easy deployment and customization.
+This is a portfolio and presentation website for an interior design studio, showcasing projects, team, awards, and media. The site is built using PHP and its framework CI4 and static HTML/CSS/JS, and is structured for easy deployment and customization.
 
 ## Features
 
