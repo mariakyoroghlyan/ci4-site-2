@@ -2,3 +2,4 @@
 writable/*
 !writable/index.html
 app/Config/Database.php
+.idea
